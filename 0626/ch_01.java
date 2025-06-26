@@ -5,7 +5,6 @@ public class ch_01 {
         Scanner cin = new Scanner(System.in);
         int a = cin.nextInt();
         int b = cin.nextInt();
-
         int c = a+b;
         System.out.print(c);
     }
