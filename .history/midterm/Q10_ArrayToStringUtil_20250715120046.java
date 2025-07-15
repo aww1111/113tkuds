@@ -1,5 +1,4 @@
-package midterm;
-public class Q7_DailyPowerReverse {
+public class Q10_ArrayToStringUtil {
     public static void main(String[] args) {
         
     }

@@ -1,5 +1,4 @@
-package midterm;
-public class Q7_DailyPowerReverse {
+public class Q9_FindFiveStarStalls {
     public static void main(String[] args) {
         
     }

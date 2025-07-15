@@ -1,5 +1,4 @@
-package midterm;
-public class Q7_DailyPowerReverse {
+public class Q8_MergeTHSRPriceTable {
     public static void main(String[] args) {
         
     }
