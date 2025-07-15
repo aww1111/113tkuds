@@ -10,10 +10,8 @@ public class Q3_NightMarketRanking {
         }
 
         int limit = Math.max(n,5);
-        for (int i = 0; i < limit; i++) {
-            int maxIdx = i;
-
-            for (int j = i + 1; j < n; j++) {
+        int maxIdx = i;
+        for (int j = i + 1; j < n; j++) {
                 if (scores[j] > scores[maxIdx]) {
                     maxIdx = j;
             }
@@ -21,7 +19,7 @@ public class Q3_NightMarketRanking {
         double tmp = scores[i];
         scores[i] = scores[maxIdx];
         scores[maxIdx] = tmp;
-        }
+        
 
         // 3. 輸出前 5 名分數（不足 5 則全列），保留 1 位小數
         for (int i = 0; i < limit; i++) {
