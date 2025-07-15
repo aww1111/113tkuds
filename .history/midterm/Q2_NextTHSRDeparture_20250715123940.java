@@ -1,4 +1,3 @@
-package midterm;
 import java.util.Scanner;
 public class Q2_NextTHSRDeparture {
     /**

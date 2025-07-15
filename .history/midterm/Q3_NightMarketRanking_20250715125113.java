@@ -1,4 +1,3 @@
-package midterm;
 import java.util.Scanner;
 
 public class Q3_NightMarketRanking {
@@ -31,7 +30,7 @@ public class Q3_NightMarketRanking {
     }
 }
 /*
- * Time Complexity: O(n²)
+ * Time Complexity: O(…)
  * 說明：5~10行，輸入攤位數和評分;
  * 12~21行，找最大然後交換;
  * 25~27行，輸出前5名;

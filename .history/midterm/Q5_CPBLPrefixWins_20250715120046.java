@@ -1,4 +1,3 @@
-package midterm;
 public class Q5_CPBLPrefixWins {
     public static void main(String[] args) {
         

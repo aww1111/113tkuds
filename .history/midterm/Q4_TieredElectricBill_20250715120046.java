@@ -1,5 +1,4 @@
-package midterm;
-public class Q5_CPBLPrefixWins {
+public class Q4_TieredElectricBill {
     public static void main(String[] args) {
         
     }

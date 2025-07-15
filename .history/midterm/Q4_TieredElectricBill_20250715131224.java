@@ -40,7 +40,5 @@ public class Q4_TieredElectricBill {
 }
 /*
  * Time Complexity: O(…)
- * 說明：25~35行，輸入戶數和電度數。
- * 36行，平均電費。
- * 6~22行，計算電費。
+ * 說明：…（推導 1~3 行）
  */
