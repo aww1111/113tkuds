@@ -1,4 +1,4 @@
-public class F04_TieredIncomeTax{
+public class F03_ConvenienceHotItems{
     public static void main(String[] args) {
         
     }
