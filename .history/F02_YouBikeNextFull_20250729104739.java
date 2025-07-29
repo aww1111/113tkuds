@@ -36,6 +36,6 @@ public class F02_YouBikeNextFull{
 /*
  * Time Complexity: O(1)
  * 說明：讀入n個時間:O(n)
- *      二分搜尋首個>查詢值:O(log n)
- *      輸出結果:O(n)
+ *      二分搜尋:O(log n)
+ *      輸出結果:O(1)
  */
